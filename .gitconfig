@@ -1,0 +1,9 @@
+[user]
+	name = Felipe Agricola
+	email = fen1499@gmail.com
+
+[includeIf "gitdir:~/Documentos/claro/"]
+	path = ~/Documentos/claro/.gitconfig
+
+[includeIf "gitdir:~/Documentos/rodobens/"]
+	path= ~/Documentos/rodobens/.gitconfig
