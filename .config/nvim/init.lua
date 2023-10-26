@@ -1,4 +1,2 @@
-require('plugins')
+require("theprimeagen")
 
-vim.opt.relativenumber = true
-vim.opt.number = true
